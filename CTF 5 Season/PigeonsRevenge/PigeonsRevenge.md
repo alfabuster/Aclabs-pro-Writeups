@@ -1,6 +1,6 @@
 # Pigeon's Revenge — ACL Labs
 
-![](https://img.shields.io/badge/Platform-ACL_Labs-blue?style=for-the-badge)
+![](https://img.shields.io/badge/Platform-ACLabs.pro-blue?style=for-the-badge)
 ![](https://img.shields.io/badge/Difficulty-Medium%2FHard-orange?style=for-the-badge)
 ![](https://img.shields.io/badge/OS-Linux-informational?style=for-the-badge&logo=linux&logoColor=white)
 ![](https://img.shields.io/badge/Category-Web%20%7C%20Forensics%20%7C%20PrivEsc-orange?style=for-the-badge)
