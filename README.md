@@ -54,15 +54,6 @@ Every writeup follows a consistent structure:
 
 ---
 
-## 🧠 Topics Covered
-
-- Web application exploitation (SQLi, SSRF, XXE, LFI/RFI, command injection)
-- Linux privilege escalation (SUID, cron, capabilities, kernel exploits)
-- Service enumeration and fingerprinting
-- CVE research and exploit adaptation
-- Realistic penetration testing scenarios
-
----
 
 ## ⚠️ Disclaimer
 
